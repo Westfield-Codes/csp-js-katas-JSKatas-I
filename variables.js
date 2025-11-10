@@ -47,17 +47,32 @@
 
 // Display an Alert Box with the message: "for example, an [animalType]".
 
-/* Fun with expressions 
+
+/* Variable Value Relationships
+ * The duration of operator assignments
+ */
+
+// declare a variable called first
+
+// ask the user for a value for first
+
+// declare a variable called second
+
+// ask the user for a value for second
+
+// declare a variable called sum and assign equal to first + second
+
+// display an alert box with "Sum first + second = " + sum
+
+// set (assign a value for) second = to -5
+
+// display an alert box with "second = -5 and sum now = " + sum
+
+
+/* Fun with expressions: extends the previous code
  * Understanding the pecularities of the JavaScript Alert Box
  */
 
-// Declare a variable and name it first
-
-// Assign a value to first using a prompt: "Enter first number"
-
-// Declare a variable and name it second
-
-// Assign a value to second using a prompt: "Enter second number"
 
 // Declare a variable and name it bragging
 
